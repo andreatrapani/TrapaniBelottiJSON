@@ -1,0 +1,52 @@
+[
+    {
+    "paziente":{
+    "nome": "Andrea",
+    "cognome": "Trapani",
+    "codice fiscale": "trpnrd04r24e573j",
+    "sesso": "M",
+    "età": 18
+    },
+    "esame": {
+    "data": "2022-01-01 08:00:00",
+    "codice": "ES01",
+    "numero di matricolo": "MAT01",
+    "denominazione dell'analisi": "Emocromo completo",
+    "valore numero e unità di misura del risultato": 4,
+    "valore minimo": 0,
+    "valore massimo": 5
+    },
+    "prilievo sangue": "2022-01-01 07:30:00",
+    "luogo": {
+    "centro territoriale": "Milano",
+    "reparto ospedaliero": "Ematologia",
+    "domicilio del paziente": "",
+    "pronto socarso o ambulazione": ""
+    }
+    },
+    {
+    "paziente":{
+    "nome": "Marco",
+    "cognome": "Rossi",
+    "codice fiscale": "rssmrc90d11h501f",
+    "sesso": "M",
+    "età": 31
+    },
+    "esame": {
+    "data": "2022-02-01 14:00:00",
+    "codice": "ES02",
+    "numero di matricolo": "MAT02",
+    "denominazione dell'analisi": "Glicemia",
+    "valore numero e unità di misura del risultato": 90,
+    "valore minimo": 70,
+    "valore massimo": 110
+    },
+    "prilievo sangue": "2022-02-01 13:30:00",
+    "luogo": {
+    "centro territoriale": "Roma",
+    "reparto ospedaliero": "Endocrinologia",
+    "domicilio del paziente": "",
+    "pronto socarso o ambulazione": ""
+    }
+    }
+    ]
